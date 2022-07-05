@@ -6,5 +6,5 @@ dependencies:
   - ipykernel
   - ipython
   - time
-  -pip:
+  - pip:
     -joblib
