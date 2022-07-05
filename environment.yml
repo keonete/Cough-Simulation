@@ -1,0 +1,10 @@
+name: CoughSimulationyml
+dependencies:
+  - python=3.9
+  - numpy=1.21.*
+  - matplotlib
+  - ipykernel
+  - ipython
+  - time
+  -pip:
+    -joblib
