@@ -6,5 +6,6 @@ dependencies:
   - ipykernel
   - ipython
   - time
+  - ffmpeg=4.4.1
   - pip:
     - joblib
